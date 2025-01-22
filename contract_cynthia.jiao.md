@@ -41,11 +41,11 @@ I, Cynthia Jiao, agree to :
 - [ ] Module 03, 01/27 - 01/31 : Welcome to the Tidyverse
 
   - Finish Lab 3 by Friday: 01/31
-  - Finish portfolio piece 1 by Friday: 01/31
 
 - [ ] Module 04, 02/03 - 02/07 : Data types and Data Transformations
 
   - Finish Lab 4 by Friday: 02/07
+  - Finish portfolio piece 1 by Friday: 02/07
 
 - [ ] Module 05, 02/10 - 02/14 : Tips for effective data visualization
 
@@ -60,11 +60,11 @@ I, Cynthia Jiao, agree to :
 - [ ] Module 07, 02/24 - 02/28 : Functions and Automation
 
   - Finish Lab 7 by Friday: 02/28
-  - Finish portfolio piece 3 by Friday: 02/28
 
 - [ ] Module 08, 03/03 - 03/07 : Data and Ethics
 
   - Finish Lab 8 by Friday: 03/07
+  - Finish portfolio piece 3 by Friday: 03/07
 
 - [ ] Module 09, 03/10 - 03/14 : Spring Break
 
